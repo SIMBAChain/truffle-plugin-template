@@ -3,3 +3,6 @@
 
 # auth token:
 **authconfig.json
+
+# node_modules
+node_modules
